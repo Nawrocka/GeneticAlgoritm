@@ -1,0 +1,7 @@
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\bin\Debug\SGAMaria.exe.config
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\bin\Debug\SGAMaria.exe
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\bin\Debug\SGAMaria.pdb
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\obj\Debug\SGAMaria.csprojAssemblyReference.cache
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\obj\Debug\SGAMaria.csproj.CoreCompileInputs.cache
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\obj\Debug\SGAMaria.exe
+D:\DSW\Algorymy Genetyczne\SGA\SGAMaria\SGAMaria\obj\Debug\SGAMaria.pdb
